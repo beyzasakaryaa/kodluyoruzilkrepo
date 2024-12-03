@@ -24,3 +24,8 @@ Pull requestler kabul edilir. Büyük değişiklikler için,lütfen önce neyi d
 
 ## License
 [MIT](https://www.mit.gov.tr/)
+
+
+## Image
+
+![Proje Resmi](images/proje-resmi.png)
