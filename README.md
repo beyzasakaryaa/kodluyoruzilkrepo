@@ -28,4 +28,4 @@ Pull requestler kabul edilir. Büyük değişiklikler için,lütfen önce neyi d
 
 ## Image
 
-![Proje Resmi](images/proje-resmi.png)
+![Proje Resmi](image.jpg)
